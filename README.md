@@ -1,4 +1,4 @@
 # Minesweeper
  
 ## 🎥 Demo Video
-https://github.com/dev-M-Ali/Minesweeper/assets/Minesweeper%20Demo.mp4
+https://github.com/dev-M-Ali/Minesweeper/blob/main/Minesweeper%20Demo.mp4
